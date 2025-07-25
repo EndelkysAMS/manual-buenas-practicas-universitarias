@@ -477,6 +477,130 @@ Aunque la colaboración pasiva puede aparentar ser útil, **oculta tensiones no 
 **Recomendación final:**  
 Resolver conflictos no es solo una cuestión de comunicación, sino también de actitud. Adoptar una postura empática, cooperativa y abierta al diálogo es clave para que el grupo avance unido hacia sus objetivos.
 
+## 5. HERRAMIENTAS ÚTILES PARA EL TRABAJO EN EQUIPO
+
+### Lluvia de Ideas
+
+**¿Qué es?**  
+Es una técnica que facilita la participación activa de todos los miembros del equipo para generar ideas en torno a un problema.
+
+**¿Por qué usarla?**  
+Muchas ideas y conocimientos están fuera del foco consciente. Esta técnica permite acceder a esos pensamientos mediante asociaciones.
+
+**¿Cuándo aplicarla?**
+- Identificar causas o soluciones.
+- Crear planes de acción.
+- Promover la creatividad colectiva.
+
+**Reglas básicas:**
+- Definir el problema claramente.
+- Fomentar la participación de todos.
+- Evitar la crítica o juicio de ideas.
+- Dar tiempo para pensar.
+- Registrar todas las ideas.
+- Mantener un ambiente relajado.
+
+**Modalidad escrita:**  
+Cada integrante escribe sus ideas en post-its. Luego se pegan en una hoja grande para analizarlas en conjunto.
+
+---
+
+###  Diagrama de Afinidad
+
+**¿Qué es?**  
+Técnica para agrupar ideas similares y facilitar la comprensión de problemas complejos.
+
+**¿Por qué usarlo?**
+- Estimula la creatividad y el pensamiento no lineal.
+- Fomenta la apropiación colectiva de resultados.
+- Facilita identificar conexiones y patrones ocultos.
+
+**Pasos para aplicarlo:**
+1. Formular claramente el tema o problema.
+2. Generar al menos 20 ideas (ideal: 40 a 60).
+3. Clasificar en silencio las ideas en grupos afines.
+4. Crear títulos representativos para cada grupo mediante consenso.
+5. Elaborar un diagrama visual conectando grupos y encabezados.
+
+**Sugerencias:**
+- Usar frases completas en los post-its.
+- Evitar discusiones durante la agrupación.
+- Está bien que algunas ideas queden solas.
+- Dividir grupos grandes en subgrupos si es necesario.
+
+---
+
+### Técnica de Grupo Nominal
+
+**¿Qué es?**  
+Método para priorizar ideas y alcanzar consenso en equipo, asegurando participación equitativa.
+
+**¿Por qué usarla?**
+- Facilita consenso sin presión grupal.
+- Da voz a integrantes menos participativos.
+- Visibiliza acuerdos y desacuerdos.
+
+**Pasos para aplicarla:**
+1. Generar una lista de temas o problemas.
+2. Escribirlos en papelógrafo o cartulina.
+3. Eliminar duplicados y clarificar términos.
+4. Cada integrante asigna una puntuación a las ideas.
+5. Se suman los puntajes y se priorizan las más votadas.
+
+**Ejemplo de votación:**
+| Opción | A | B | C |
+|--------|---|---|---|
+| Total  |11 |13 | 5 |
+
+La opción B sería la de mayor prioridad para trabajar.
+
+---
+
+###  Diagrama de Causa-Efecto (Espina de Pescado)
+
+**¿Qué es?**  
+Técnica visual para identificar causas que generan un efecto o problema determinado.
+
+**¿Por qué usarla?**
+- Descompone un problema complejo en causas manejables.
+- Estimula el análisis grupal.
+- Muestra relaciones causa-efecto de forma clara.
+
+**¿Cuándo aplicarlo?**
+- Para analizar problemas.
+- Identificar requisitos o soluciones.
+- Detectar la causa raíz.
+
+**Pasos para construirlo:**
+1. Precisar el efecto o problema a analizar.
+2. Identificar causas mediante:
+   - Lluvia de ideas.
+   - Datos recogidos previamente.
+3. Clasificar causas en categorías principales (personas, métodos, materiales, maquinaria, etc.).
+4. Ubicar las causas secundarias dentro de cada categoría.
+5. Preguntar “¿por qué sucede?” para profundizar en cada espina.
+
+**Recomendaciones:**
+- Usar diagramas grandes y visibles.
+- Fomentar la participación.
+- No buscar culpables.
+- Definir claramente el problema.
+- Evitar sobrecargar el diagrama.
+
+---
+
+> *Estas herramientas permiten organizar, priorizar y solucionar problemas grupales de forma estructurada, promoviendo el consenso, la creatividad y la participación activa de todos los miembros del equipo.*
+
+
+---
+
+## 📚 Referencias
+
+- Shiftbase. (s.f.). *Trabajo en equipo*. Consultado el 24 de julio de 2025, de https://www.shiftbase.com/es/glosario/trabajo-en-equipo
+
+- Universidad del Norte. (s.f.). *¿Cómo trabajar en equipo?*. Blog Joven Uninorte. Consultado el 24 de julio de 2025, de https://www.uninorte.edu.co/web/jovenuninorte/blog-todos/-/blogs/-como-trabajar-en-equipo-
+
+- Mancomunidad Urola Kosta. (2015). *Guía para trabajar en equipo*. Consultado el 25 de julio de 2025, de https://www.urolakosta.eus/documents/378556/379185/Lantaldean+aritzeko+gida+2015+ES/6669a975-841e-4286-b4b2-c7d4b7e9d1c5
 
 
 
