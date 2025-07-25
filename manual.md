@@ -79,7 +79,7 @@ Cuando no hay organización o métodos claros, el trabajo en grupo puede ser ine
 - Presión para aceptar decisiones sin debate.
 - Responsabilidades poco claras o diluidas.
 
-> 💡 *Trabajar en equipo se aprende con la práctica, pero contar con una guía clara hace la diferencia.*
+>  *Trabajar en equipo se aprende con la práctica, pero contar con una guía clara hace la diferencia.*
 
 ---
 
@@ -91,7 +91,7 @@ Para que un equipo funcione bien, es necesario aplicar un modelo con tres elemen
 
 El equipo debe tener autonomía, recursos y un liderazgo participativo. Además, debe conocer los límites y condiciones dentro de los cuales puede trabajar. Esto evita frustraciones y promueve resultados realistas.
 
-> 🧠 *"Si quieres ir rápido, ve solo. Si quieres llegar lejos, ve acompañado."*
+> *"Si quieres ir rápido, ve solo. Si quieres llegar lejos, ve acompañado."*
 
 <!-- Daniel: Puedes agregar aquí una imagen con esa frase y un fondo inspirador -->
 
@@ -125,5 +125,115 @@ Debe haber una persona coordinadora y otra encargada de tomar notas o levantar a
 
 >  El rol de coordinación no siempre implica liderazgo, también puede ser estratégico o de enlace con otras personas externas.
 
+## La reflexividad y la sinergia en el trabajo en equipo
+
+Dentro de la dinámica de los equipos universitarios, hay dos conceptos fundamentales que determinan su buen funcionamiento: **reflexividad** y **sinergia**.
+
+- **Reflexividad**: es la capacidad que tiene el equipo para analizar su propio funcionamiento, revisar sus métodos de trabajo y buscar soluciones a los problemas que surgen durante el proceso.
+- **Sinergia**: es cuando las ideas y aportes de los miembros se complementan, creando un resultado más completo y potente que el que podrían alcanzar individualmente.
+
+> La sinergia nace de la reflexión colectiva. Cuanto más reflexivo es un equipo, mayor será la sinergia que genera.
+
+<!-- Daniel: aquí podrías colocar una imagen conceptual que conecte visualmente reflexividad + sinergia = mejores resultados -->
+
+---
+
+### ¿Cómo se desarrolla la sinergia?
+
+El rol de la persona coordinadora es clave para lograr sinergia en el equipo. Algunas de sus funciones incluyen:
+
+- Conocer las fortalezas y habilidades de cada integrante.
+- Observar cómo evoluciona el equipo a medida que crece la confianza mutua.
+- Promover que los miembros asuman diferentes roles, no quedarse solo en lo habitual.
+- Comprender que el comportamiento de una persona también depende de la dinámica del grupo.
+- Fomentar acuerdos sobre los roles que cada miembro asumirá según las necesidades del momento.
+
+> El trabajo en equipo es una herramienta de desarrollo personal y colectivo.
+
+---
+
+## Funciones del coordinador/a del equipo
+
+La persona coordinadora no solo facilita el trabajo, también guía la dinámica interna del grupo:
+
+- Ayuda a planificar las fechas de reunión.
+- Se asegura de que las tareas se completen durante las sesiones.
+- Vigila que el tiempo se use eficazmente.
+- Modera las intervenciones.
+- Garantiza la participación de todos.
+- Promueve decisiones por consenso.
+
+Al final de cada reunión, se recomienda hacer una breve reflexión grupal con preguntas como:
+
+- ¿Cómo fue la reunión de hoy?
+- ¿Qué funcionó bien?
+- ¿Qué aspectos se pueden mejorar?
+
+<!-- Daniel: sugerencia visual: un cuadro con estas tres preguntas tipo plantilla para reflexionar -->
+
+---
+
+## El rol del secretariado
+
+El secretariado es la persona encargada de tomar notas durante la reunión y redactar el acta.
+
+- Se recomienda **rotar este rol**, ya que tomar notas limita la participación activa.
+- El acta debe ser compartida con todo el equipo, de modo que pueda revisarse y aprobarse en la siguiente reunión.
+
+> El acta es clave para mantener registro claro de acuerdos, tareas y responsables.
+
+<!-- Daniel: podrías incluir un ejemplo visual o plantilla sencilla de acta en una tabla -->
+
+---
+
+## Clarificar el objetivo común
+
+Todo el equipo debe tener muy claro qué tarea debe cumplir y cuál es el objetivo principal.
+
+- Se debe **dedicar tiempo a discutir y entender bien los objetivos** antes de comenzar.
+- Es importante que todos los miembros aporten su punto de vista sobre el trabajo a realizar y cómo lo abordarán.
+
+> Cuando el objetivo está claro, la motivación y el compromiso aumentan.
+
+---
+
+## Distribuir las tareas de forma eficiente
+
+La distribución del trabajo debe ser:
+
+- Equitativa: todos deben tener una parte de la tarea.
+- Interdependiente: cada parte debe necesitar del resto para completarse.
+
+Durante las reuniones:
+
+- Establecer tiempos para las actividades de ese día.
+- Al finalizar, asignar responsables para cada tarea.
+- Acordar traer información necesaria para la siguiente sesión.
+- Fijar la fecha y agenda de la próxima reunión.
+
+<!-- Daniel: podrías diseñar un pequeño calendario editable tipo checklist de tareas y responsables -->
+
+---
+
+## Las aportaciones individuales: los roles de Belbin
+
+Para formar un equipo balanceado, no solo se deben valorar los conocimientos, sino también las habilidades personales. Una herramienta útil es la teoría de **roles de equipo de Meredith Belbin**, que define 9 tipos de roles complementarios.
+
+| **Rol**              | **Descripción**                                      | **Debilidades permitidas**               | **Debilidades NO permitidas**                         |
+|----------------------|------------------------------------------------------|------------------------------------------|--------------------------------------------------------|
+| Cerebro              | Creativo, imaginativo, resuelve problemas difíciles  | Ignora detalles, comunica con dificultad | No coopera, se adueña de las ideas                     |
+| Investigador         | Extrovertido, busca oportunidades y contactos        | Pierde interés con rapidez               | Descuidar el seguimiento de acuerdos                  |
+| Coordinador          | Seguro, delega bien, aclara metas                    | Puede parecer manipulador                | Atribuirse méritos del grupo                          |
+| Impulsor             | Enérgico, trabaja bajo presión                       | Puede ser hiriente o frustrarse          | No saber disculparse o recuperar el ambiente          |
+| Evaluador            | Analítico, juzga con precisión                       | Poco inspirador, crítico excesivo        | Cinismo sin base lógica                               |
+| Cohesionador         | Diplomático, evita conflictos                        | Indeciso, muy influenciable              | Evadir responsabilidades o presión                    |
+| Implementador        | Organizado, convierte ideas en acciones              | Lento ante cambios                       | Resistirse al cambio                                  |
+| Finalizador          | Perfeccionista, cumple plazos                        | Se preocupa demasiado, no delega         | Comportamiento obsesivo                               |
+| Especialista         | Experto en un tema, disciplinado                     | Solo aporta en su área                   | Ignora otros factores clave fuera de su especialidad  |
+
+>  No hay roles mejores o peores. Todos son útiles si se entienden y equilibran.
 
 
+---
+
+<!-- Recuerda antes de exportar el manual a PDF para entregarlo a los profesores, elimina todos los comentarios como este. Para generar el PDF, instala la extensión “Markdown PDF” en Visual Studio Code. -->
