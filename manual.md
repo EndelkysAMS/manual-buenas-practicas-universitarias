@@ -39,3 +39,91 @@ Implica también confianza mutua, responsabilidad compartida y disposición para
 
 ---
 
+## Diferencias entre trabajo de equipo y Equipo de trabajo 
+
+En toda organización, y especialmente en contextos universitarios, es vital distinguir entre "equipo de trabajo" y "trabajo en equipo":
+
+- **Equipo de trabajo**: es un grupo de personas asignadas o autoasignadas, según sus habilidades, para cumplir una meta específica, bajo la coordinación de alguien responsable.
+- **Trabajo en equipo**: se refiere a las estrategias, procesos y métodos que permiten al grupo alcanzar esa meta de forma eficiente y organizada.
+
+Una definición clara y útil es la propuesta por *Harvard Business Review (1993)* en su libro *The Discipline of Teams*, donde se señala que:
+
+> "Un equipo consiste en un pequeño número de personas con habilidades complementarias que están comprometidas con un propósito común, usan métodos estructurados y son mutuamente responsables del logro de ese propósito."
+
+<!-- Daniel: Aquí puedes incluir una imagen ilustrativa con la diferencia entre “equipo de trabajo” y “trabajo en equipo”, tipo esquema -->
+
+---
+
+## Ventajas de un equipo eficiente
+
+Trabajar bien en equipo trae numerosos beneficios:
+
+- Se combinan talentos y habilidades distintas.
+- Hay más información y puntos de vista sobre el tema.
+- Se generan soluciones más creativas e innovadoras.
+- Se analizan mejor los problemas desde diferentes enfoques.
+- Se comparten responsabilidades y decisiones.
+- Se fortalece el compromiso y la participación.
+- Se estimula el desarrollo del potencial humano.
+
+<!-- Daniel: Aquí puedes agregar un diagrama de ventajas en forma de lista visual o infografía circular -->
+
+---
+
+## Desventajas de un equipo poco eficiente
+
+Cuando no hay organización o métodos claros, el trabajo en grupo puede ser inefectivo:
+
+- Dominio de unas pocas personas o de la figura del líder.
+- Reuniones largas sin acciones concretas.
+- Presión para aceptar decisiones sin debate.
+- Responsabilidades poco claras o diluidas.
+
+> 💡 *Trabajar en equipo se aprende con la práctica, pero contar con una guía clara hace la diferencia.*
+
+---
+
+## Elementos clave para un equipo eficiente
+
+Para que un equipo funcione bien, es necesario aplicar un modelo con tres elementos fundamentales:
+
+### 1. Contexto grupal
+
+El equipo debe tener autonomía, recursos y un liderazgo participativo. Además, debe conocer los límites y condiciones dentro de los cuales puede trabajar. Esto evita frustraciones y promueve resultados realistas.
+
+> 🧠 *"Si quieres ir rápido, ve solo. Si quieres llegar lejos, ve acompañado."*
+
+<!-- Daniel: Puedes agregar aquí una imagen con esa frase y un fondo inspirador -->
+
+---
+
+### 2. Estructura del grupo
+
+#### 2.1 Selección de integrantes
+
+El equipo ideal tiene entre 4 y 6 personas. Un grupo pequeño facilita la organización y la toma de decisiones. Lo ideal es que los integrantes tengan habilidades y estilos diversos, pero no tan distintos que impidan una buena comunicación.
+
+#### 2.2 Nombre del equipo
+
+Ponerle nombre al equipo crea identidad y sentido de pertenencia. Esta primera decisión debe tomarse en conjunto. Si hay desacuerdo, se puede usar la técnica de lluvia de ideas.
+
+<!-- Daniel: Se puede incluir un ejemplo de nombre creativo para equipos universitarios -->
+
+#### 2.3 Normas de funcionamiento
+
+Es importante establecer reglas claras como:
+
+- Puntualidad.
+- No usar el móvil en reuniones.
+- Respetar los turnos al hablar.
+
+Estas normas deben construirse entre todos los miembros y colocarse visibles en cada encuentro.
+
+#### 2.4 Reparto de funciones
+
+Debe haber una persona coordinadora y otra encargada de tomar notas o levantar actas. Estas funciones pueden rotarse para fomentar la equidad.
+
+>  El rol de coordinación no siempre implica liderazgo, también puede ser estratégico o de enlace con otras personas externas.
+
+
+
