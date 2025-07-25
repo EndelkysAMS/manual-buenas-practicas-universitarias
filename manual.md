@@ -236,4 +236,188 @@ Para formar un equipo balanceado, no solo se deben valorar los conocimientos, si
 
 ---
 
+## Roles dentro del equipo y su impacto en la dinámica grupal
+
+Cada integrante de un grupo suele identificarse con ciertos roles que le resultan más naturales, ya sea por su personalidad o experiencia previa. Sin embargo, es importante recordar que los roles pueden cambiar o adaptarse según las necesidades del equipo y del entorno.
+
+El rol que asume una persona es una forma de responder a lo que el grupo necesita. Por eso, es útil identificar los distintos roles presentes y reflexionar sobre los comportamientos que se asocian a ellos. Comprender cómo influyen estos roles en la dinámica del grupo ayuda a mejorar la colaboración, a equilibrar la participación y a fortalecer el trabajo conjunto.
+
+---
+
+## Procesos grupales
+
+### Participación
+
+La participación activa de todos los integrantes es esencial para alcanzar los objetivos comunes. Un equipo efectivo se caracteriza por mantener un equilibrio participativo, donde todos tienen la oportunidad de hablar, aportar ideas y tomar decisiones.
+
+Sin embargo, existen situaciones comunes que pueden alterar esta dinámica:
+
+- **Personas que participan en exceso**, acaparando el protagonismo.
+- **Personas que participan muy poco** o permanecen en silencio.
+
+Para abordar estos casos, el/la coordinador/a del grupo debe actuar con sensibilidad y liderazgo. Algunas estrategias útiles incluyen:
+
+- **No culpar** a quienes más intervienen, sino guiarlos para que ajusten sus aportes a las necesidades del grupo.
+- **Reforzar positivamente** las intervenciones de quienes participan menos.
+- **Transmitir constantemente** que todas las opiniones son valiosas y bienvenidas.
+- **Fomentar la inclusión**, donde quienes más aportan ayudan a involucrar a quienes lo hacen menos.
+
+**Pautas para promover una participación equilibrada:**
+
+- Si una persona permanece callada:
+  - Hacerle preguntas sencillas: “¿Qué opinas sobre este punto?”, “¿Estás de acuerdo con lo dicho?”
+  - Indagar por qué no participa; puede deberse a desconocimiento del tema.
+  - Recordar al grupo que todas las aportaciones son importantes.
+
+- Si varios miembros se muestran pasivos:
+  - Pedir su colaboración directamente.
+  - Solicitar a los miembros más activos que ayuden a integrarlos en la conversación.
+
+- Si alguien monopoliza la discusión:
+  - Dirigirse con respeto: “Tus aportes son valiosos, escuchemos también a los demás”.
+  - Abrir la conversación al grupo: “¿Qué opinan sobre lo que se acaba de decir?”
+
+---
+
+### Comunicación
+
+La comunicación efectiva es la base del trabajo en equipo. Va más allá de expresar ideas: también implica saber escuchar y acoger lo que los demás expresan, sin juicios ni descalificaciones.
+
+Una comunicación saludable se basa en el respeto mutuo, la empatía y la claridad.
+
+---
+
+#### Asertividad
+
+La asertividad es la capacidad de expresar lo que uno piensa o siente de manera libre, honesta y respetuosa, sin agredir ni minimizar a los demás.
+
+Una persona asertiva:
+
+- Se respeta a sí misma.
+- Expresa sus necesidades e intereses.
+- Defiende sus ideas sin imponerlas.
+- Escucha y respeta las ideas de los demás.
+
+**Beneficios de la comunicación asertiva en el equipo:**
+
+- Refuerza la autoestima de los integrantes.
+- Favorece relaciones sanas y honestas.
+- Previene malentendidos y manipulaciones.
+- Facilita la solución de conflictos de forma constructiva.
+
+**Recomendaciones para fomentar la asertividad:**
+
+- Incentivar la expresión de opiniones, ideas y emociones.
+- Asegurar que todas las voces sean escuchadas sin descalificación.
+- Promover una comunicación sincera, basada en el respeto.
+
+### 4.3.2.2 Capacidad de escucha
+
+Escuchar activamente es una habilidad esencial para una comunicación eficaz dentro de un equipo. No se trata solo de oír, sino de prestar atención consciente y demostrar interés por el mensaje del otro. Escuchar correctamente ayuda a prevenir malentendidos y fortalece las relaciones del grupo.
+
+Escuchar activamente significa también comunicar con nuestra actitud: *"te estoy escuchando y me importa lo que dices."*
+
+**Pautas para mejorar la escucha activa en el equipo:**
+
+- Mirar directamente a la persona que está hablando.
+- No mantener conversaciones con terceros mientras alguien interviene.
+- Mostrar señales de atención (asentir con la cabeza, sonreír, mantener contacto visual).
+- Evitar juzgar o responder de inmediato; primero, escuchar y comprender.
+- No anticiparse al mensaje con frases como “ya sé lo que va a decir”.
+- No desviar la conversación hacia uno mismo.
+- Formular preguntas abiertas que animen a continuar hablando o reflexionar.
+- Resumir de vez en cuando lo escuchado para confirmar comprensión.
+
+**Ante interrupciones o conversaciones paralelas:**
+
+- Recordar al equipo: *"Mantengamos solo una conversación a la vez."*
+- Dirigirse a quien interrumpe: *"¿Tienes alguna pregunta para [nombre]?"*
+- Hacer una petición directa: *"Por favor, espera a que termine para comentar."*
+
+---
+
+### 4.3.2.3 Feedback
+
+El *feedback* es la respuesta que damos a lo que otra persona comunica. Confirma que hemos escuchado y permite enriquecer la conversación. Además de reforzar la comprensión, el feedback ayuda a construir mejores ideas y relaciones dentro del equipo.
+
+**Usos comunes del feedback:**
+
+- **Para dar sugerencias o consejos:**
+  - ¿Qué tal si...?
+  - ¿Y si intentamos...?
+  - A lo mejor podríamos...
+
+- **Para pedir ideas u opiniones:**
+  - ¿Qué piensas?
+  - ¿Qué harías tú?
+  - ¿Qué crees que debería hacer?
+
+- **Para aceptar o matizar ideas:**
+  - Es una buena idea.
+  - Gracias por recordármelo.
+  - Posiblemente tengas razón.
+  - Sí, aunque también conviene tener en cuenta...
+
+**Recomendaciones para un feedback efectivo:**
+
+- Ser objetivo y evitar ataques personales.
+- Comentar tanto tareas como actitudes o emociones relacionadas.
+- No emitir juicios ni culpas; el feedback debe ayudar, no dañar.
+- Darlo en el momento adecuado (no posponer demasiado).
+- Enfocarse en aspectos que pueden cambiarse.
+- Verificar si la persona comprendió el mensaje.
+- Consultar si el grupo comparte la misma opinión.
+
+---
+
+### 4.3.3 La toma de decisiones
+
+En un equipo, todos sus miembros trabajan para alcanzar objetivos comunes. Durante ese proceso, es necesario tomar decisiones que definan el camino a seguir. Para lograr una verdadera colaboración, las decisiones deben tomarse por **consenso**, no por mayoría.
+
+Una decisión consensuada es aquella que todos asumen como propia. Esto implica escuchar todas las opiniones, fomentar la participación activa y lograr compromiso con los resultados.
+
+**Beneficios del consenso:**
+
+- Genera compromiso colectivo.
+- Permite aprovechar el aporte de todos.
+- Evita que alguien quede excluido del proceso.
+
+**Sugerencias para fomentar la toma de decisiones consensuada:**
+
+- Usar herramientas grupales como lluvias de ideas o diagramas de afinidad.
+- Asegurarse de que todas las opiniones sean escuchadas.
+- Analizar todas las opciones disponibles antes de decidir.
+- Evitar decisiones que perjudiquen a algún miembro del grupo.
+- Recordar que el consenso también implica asumir la responsabilidad de la decisión tomada.
+
+**Indicadores de que hubo consenso:**
+
+- Los miembros han sido honestos y escuchados.
+- La información fue compartida abiertamente.
+- Todos se sienten parte y dueños de la decisión.
+- Todos apoyan activamente su cumplimiento.
+
+**Si surgen dificultades para alcanzar consenso:**
+
+- Preguntar: *"¿Qué tienen en común las ideas propuestas?"*
+- Invitar a ver el problema desde otra perspectiva.
+- Analizar fortalezas y debilidades de cada opción.
+
+**Si alguien impone su idea sin considerar a los demás:**
+
+- Recordarle: *"Tus ideas son valiosas, pero también lo son las de los demás."*
+- Consultar al grupo: *"¿Qué opinan de esta propuesta?"*
+
+**Si alguien muestra desacuerdo pero no lo expresa:**
+
+- Decir: *"Veo que quizás no estás de acuerdo, ¿quieres compartir tu opinión?"*
+- Preguntar al grupo si comparte esa percepción.
+
+**Si una idea es ignorada:**
+
+- Decir: *"Esa aportación es valiosa, ¿qué piensan los demás?"*
+- Recordar que todas las propuestas deben ser consideradas.
+
+
+
 <!-- Recuerda antes de exportar el manual a PDF para entregarlo a los profesores, elimina todos los comentarios como este. Para generar el PDF, instala la extensión “Markdown PDF” en Visual Studio Code. -->
