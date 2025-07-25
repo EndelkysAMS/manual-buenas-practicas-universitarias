@@ -418,6 +418,66 @@ Una decisión consensuada es aquella que todos asumen como propia. Esto implica 
 - Decir: *"Esa aportación es valiosa, ¿qué piensan los demás?"*
 - Recordar que todas las propuestas deben ser consideradas.
 
+### 4.3.4 Resolución de problemas y conflictos
+
+En los equipos de trabajo, los conflictos son inevitables. Sin embargo, lo importante no es evitarlos, sino saber **identificar las causas subyacentes** y buscar soluciones objetivas. En lugar de enfocarse en culpas personales, el equipo debe orientar sus esfuerzos hacia **la resolución del problema real**, de forma colaborativa y constructiva.
+
+Un conflicto puede gestionarse de forma eficaz cuando se comprenden dos aspectos clave del comportamiento humano:
+
+1. El grado en que una persona busca satisfacer **sus propios intereses**.
+2. El grado en que esa persona está dispuesta a considerar y satisfacer **los intereses de los demás**.
+
+La combinación de estas dos actitudes define el estilo con el que cada integrante enfrenta los conflictos. Estos estilos van desde comportamientos **competitivos** hasta **colaborativos**, cada uno con sus ventajas y desventajas.
+
+---
+
+#### La competición en los equipos
+
+Este estilo aparece cuando un integrante **busca imponer su punto de vista o ganar**, sin tener en cuenta las necesidades del resto. Suele estar motivado por el deseo de:
+
+- Sostener una posición que considera correcta.
+- Defender sus derechos personales.
+- Alcanzar logros individuales, incluso a costa del grupo.
+
+Aunque este comportamiento puede generar tensiones, también puede aportar **impulso y excelencia**, si se canaliza adecuadamente.
+
+**¿Qué hacer si hay alta competitividad en el equipo?**
+
+- Recordar las **normas de convivencia y respeto** establecidas por el grupo.
+- Distribuir las tareas de forma **equitativa**, considerando las habilidades individuales.
+- Fomentar la **toma de decisiones por consenso**.
+- **Moderar los debates** y reforzar la participación de quienes hablan menos.
+- Valorar la **calidad del trabajo colectivo**, no solo los logros individuales.
+- No culpar ni excluir a quienes más participan; invítalos a **apoyar al resto del grupo**.
+- Reforzar la idea de que **detrás de todo conflicto hay un problema sin resolver**, y que es tarea de todos encontrarle solución.
+
+---
+
+#### La colaboración en los equipos
+
+La **colaboración activa** es el enfoque ideal para resolver conflictos. Implica que todos los miembros del equipo se involucran de forma consciente para **dialogar, debatir y negociar soluciones** en conjunto.
+
+Frente a esta, existe también la **colaboración pasiva**, donde las personas:
+
+- Aceptan soluciones impuestas.
+- Ignoran el conflicto con la esperanza de que desaparezca solo.
+- Siguen adelante con las tareas sin enfrentar el problema de fondo.
+
+Aunque la colaboración pasiva puede aparentar ser útil, **oculta tensiones no resueltas** que, con el tiempo, pueden afectar la cohesión del grupo.
+
+**Beneficios de la colaboración activa:**
+
+- Fomenta la escucha y el respeto mutuo.
+- Promueve el compromiso con las decisiones tomadas.
+- Mejora la calidad de las soluciones mediante el aporte colectivo.
+- Fortalece el sentido de pertenencia y la confianza entre los miembros del equipo.
+
+---
+
+**Recomendación final:**  
+Resolver conflictos no es solo una cuestión de comunicación, sino también de actitud. Adoptar una postura empática, cooperativa y abierta al diálogo es clave para que el grupo avance unido hacia sus objetivos.
+
+
 
 
 <!-- Recuerda antes de exportar el manual a PDF para entregarlo a los profesores, elimina todos los comentarios como este. Para generar el PDF, instala la extensión “Markdown PDF” en Visual Studio Code. -->
