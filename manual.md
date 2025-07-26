@@ -48,10 +48,7 @@ En toda organización, y especialmente en contextos universitarios, es vital dis
 
 Una definición clara y útil es la propuesta por *Harvard Business Review (1993)* en su libro *The Discipline of Teams*, donde se señala que:
 
-> "Un equipo consiste en un pequeño número de personas con habilidades complementarias que están comprometidas con un propósito común, usan métodos estructurados y son mutuamente responsables del logro de ese propósito."
-
-<!-- Daniel: Aquí puedes incluir una imagen ilustrativa con la diferencia entre “equipo de trabajo” y “trabajo en equipo”, tipo esquema -->
-
+<img src="img/Trabajo%20en%20equipo%20vs%20equipo%20de%20trabajo.png" alt="Trabajo en equipo" width="600px" height="600px" />
 ---
 
 ## Ventajas de un equipo eficiente
@@ -66,7 +63,7 @@ Trabajar bien en equipo trae numerosos beneficios:
 - Se fortalece el compromiso y la participación.
 - Se estimula el desarrollo del potencial humano.
 
-<!-- Daniel: Aquí puedes agregar un diagrama de ventajas en forma de lista visual o infografía circular -->
+<img src="img/beneficions de un trabajo eficiente.png" alt="Trabajo en equipo" width="600px" height="600px" />
 
 ---
 
@@ -79,7 +76,6 @@ Cuando no hay organización o métodos claros, el trabajo en grupo puede ser ine
 - Presión para aceptar decisiones sin debate.
 - Responsabilidades poco claras o diluidas.
 
->  *Trabajar en equipo se aprende con la práctica, pero contar con una guía clara hace la diferencia.*
 
 ---
 
@@ -91,9 +87,7 @@ Para que un equipo funcione bien, es necesario aplicar un modelo con tres elemen
 
 El equipo debe tener autonomía, recursos y un liderazgo participativo. Además, debe conocer los límites y condiciones dentro de los cuales puede trabajar. Esto evita frustraciones y promueve resultados realistas.
 
-> *"Si quieres ir rápido, ve solo. Si quieres llegar lejos, ve acompañado."*
-
-<!-- Daniel: Puedes agregar aquí una imagen con esa frase y un fondo inspirador -->
+<img src="img/Frase motivadora.png" alt="Trabajo en equipo" width="600px" height="600px" />
 
 ---
 
@@ -105,9 +99,9 @@ El equipo ideal tiene entre 4 y 6 personas. Un grupo pequeño facilita la organi
 
 #### 2.2 Nombre del equipo
 
-Ponerle nombre al equipo crea identidad y sentido de pertenencia. Esta primera decisión debe tomarse en conjunto. Si hay desacuerdo, se puede usar la técnica de lluvia de ideas.
+Ponerle nombre al equipo crea identidad y sentido de pertenencia. Esta primera decisión debe tomarse en conjunto. Si hay desacuerdo, se puede usar la técnica de lluvia de ideas. Aquí unos ejemplos de equipos.
 
-<!-- Daniel: Se puede incluir un ejemplo de nombre creativo para equipos universitarios -->
+<img src="img/Nombres de equipos.png" alt="Trabajo en equipo" width="600px" height="600px" />
 
 #### 2.3 Normas de funcionamiento
 
@@ -123,7 +117,6 @@ Estas normas deben construirse entre todos los miembros y colocarse visibles en 
 
 Debe haber una persona coordinadora y otra encargada de tomar notas o levantar actas. Estas funciones pueden rotarse para fomentar la equidad.
 
->  El rol de coordinación no siempre implica liderazgo, también puede ser estratégico o de enlace con otras personas externas.
 
 ## La reflexividad y la sinergia en el trabajo en equipo
 
@@ -132,9 +125,7 @@ Dentro de la dinámica de los equipos universitarios, hay dos conceptos fundamen
 - **Reflexividad**: es la capacidad que tiene el equipo para analizar su propio funcionamiento, revisar sus métodos de trabajo y buscar soluciones a los problemas que surgen durante el proceso.
 - **Sinergia**: es cuando las ideas y aportes de los miembros se complementan, creando un resultado más completo y potente que el que podrían alcanzar individualmente.
 
-> La sinergia nace de la reflexión colectiva. Cuanto más reflexivo es un equipo, mayor será la sinergia que genera.
-
-<!-- Daniel: aquí podrías colocar una imagen conceptual que conecte visualmente reflexividad + sinergia = mejores resultados -->
+<img src="img/Mejores resultados.png" alt="Trabajo en equipo" width="600px" height="600px" />
 
 ---
 
@@ -147,8 +138,6 @@ El rol de la persona coordinadora es clave para lograr sinergia en el equipo. Al
 - Promover que los miembros asuman diferentes roles, no quedarse solo en lo habitual.
 - Comprender que el comportamiento de una persona también depende de la dinámica del grupo.
 - Fomentar acuerdos sobre los roles que cada miembro asumirá según las necesidades del momento.
-
-> El trabajo en equipo es una herramienta de desarrollo personal y colectivo.
 
 ---
 
@@ -169,7 +158,7 @@ Al final de cada reunión, se recomienda hacer una breve reflexión grupal con p
 - ¿Qué funcionó bien?
 - ¿Qué aspectos se pueden mejorar?
 
-<!-- Daniel: sugerencia visual: un cuadro con estas tres preguntas tipo plantilla para reflexionar -->
+<img src="img/Preguntas.png" alt="Trabajo en equipo" width="600px" height="600px" />
 
 ---
 
@@ -180,10 +169,7 @@ El secretariado es la persona encargada de tomar notas durante la reunión y red
 - Se recomienda **rotar este rol**, ya que tomar notas limita la participación activa.
 - El acta debe ser compartida con todo el equipo, de modo que pueda revisarse y aprobarse en la siguiente reunión.
 
-> El acta es clave para mantener registro claro de acuerdos, tareas y responsables.
-
-<!-- Daniel: podrías incluir un ejemplo visual o plantilla sencilla de acta en una tabla -->
-
+<img src="img/Acta.png" alt="Trabajo en equipo" width="600px" height="600px" />
 ---
 
 ## Clarificar el objetivo común
@@ -193,7 +179,6 @@ Todo el equipo debe tener muy claro qué tarea debe cumplir y cuál es el objeti
 - Se debe **dedicar tiempo a discutir y entender bien los objetivos** antes de comenzar.
 - Es importante que todos los miembros aporten su punto de vista sobre el trabajo a realizar y cómo lo abordarán.
 
-> Cuando el objetivo está claro, la motivación y el compromiso aumentan.
 
 ---
 
@@ -210,8 +195,8 @@ Durante las reuniones:
 - Al finalizar, asignar responsables para cada tarea.
 - Acordar traer información necesaria para la siguiente sesión.
 - Fijar la fecha y agenda de la próxima reunión.
-
-<!-- Daniel: podrías diseñar un pequeño calendario editable tipo checklist de tareas y responsables -->
+ 
+<img src="img/Calendario.png" alt="Trabajo en equipo" width="600px" height="600px" />
 
 ---
 
